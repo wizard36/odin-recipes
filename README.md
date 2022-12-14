@@ -1,0 +1,2 @@
+# Odin-recipes
+This project will invovle building a basic recipe website using HTML and Github. Completion of this project will demonstrate being able to develop websites using HTML and being able to create and maintain a repository on Github.
