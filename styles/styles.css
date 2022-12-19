@@ -1,4 +1,4 @@
-*{
+.index{
     background-color:rgb(43, 41, 41);
 }
 
@@ -28,4 +28,9 @@
 .link-three{
     background-color:rgb(131, 33, 33);
     color:rgb(255, 255, 0);
+}
+
+.lasagna-main {
+    background-color:blanchedalmond;
+
 }
