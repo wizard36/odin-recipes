@@ -37,7 +37,7 @@
 
 }
 
-.lasagna-head{
+.recipe-head{
     color:rgb(245, 3, 245);
     text-align:center;
     font-size:32px;
@@ -46,9 +46,19 @@
 
 }
 
-.lasagna-subhead{
+.recipe-subhead{
     color: rgb(3, 139, 173);
     text-align:left;
     font-size:24px;
     font-family:Arial, Helvetica, sans-serif;
 }
+
+.blt-main{
+    background-color: rgb(22, 18, 44);
+    color:rgb(192, 191, 191);
+    font-size:16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
